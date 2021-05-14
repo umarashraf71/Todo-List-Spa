@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Live Todo List Application](https://todo-list71.netlify.app/)
+[Todo List Application](https://todo-list71.netlify.app/)
 
 In the project directory, you can run:
 
